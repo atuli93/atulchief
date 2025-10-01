@@ -38,6 +38,8 @@ DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 DOBBY_API_KEY=YOUR_API_KEY_HERE
 DOBBY_API_URL=https://api.fireworks.ai/inference/dobby-70b
 ```
+Discord_token - [https://discord.com/developers/applications](https://discord.com/developers/applications)
+Dobby_api_key - [https://app.fireworks.ai/account/home](https://app.fireworks.ai/account/home)
 
 5. **Run the Bot**
 ```bash
