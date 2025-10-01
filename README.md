@@ -1,3 +1,5 @@
+<img width="1842" height="995" alt="image" src="https://github.com/user-attachments/assets/75f59b71-2354-450a-b286-4e17315d7918" />
+
 # Quiz Bot
 
 A Discord Quiz Bot that generates multiple-choice questions on topics like Python, Blockchain, Cybersecurity, and more. Track your score and challenge yourself or friends!
