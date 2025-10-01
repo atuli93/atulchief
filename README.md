@@ -45,12 +45,13 @@ python bot.py
 ```
 
 # Commands
-
+```bash
 ```!quiz <topic>``` → Generates a quiz question for the given topic
 Example: ```!quiz Python```
 ```!answer <option>``` → Answer the current quiz question
 Example: ```!answer B```
 ```!score``` → Check your current score
+```
 
 # Example
 ## Bot asking a question:
