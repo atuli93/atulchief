@@ -47,11 +47,9 @@ python bot.py
 # Commands
 
 ```!quiz <topic>``` → Generates a quiz question for the given topic
-
 Example: ```!quiz Python```
 
 ```!answer <option>``` → Answer the current quiz question
-
 Example: ```!answer B```
 
 ```!score``` → Check your current score
