@@ -1,3 +1,8 @@
 discord.py==2.6.3
+<<<<<<< HEAD
 requests==2.31.0
 python-dotenv==1.0.0
+=======
+requests
+python-dotenv
+>>>>>>> dc3e50f (Final Quiz Bot for Builder L1)
