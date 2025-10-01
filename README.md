@@ -54,7 +54,7 @@ Example: ```!answer B```
 
 # Example
 ## Bot asking a question:
-```
+```bash
 Quiz (Python)
 Question: Which built-in Python function is used to convert a string to lowercase?
 A) uppercase()
