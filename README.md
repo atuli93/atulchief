@@ -72,6 +72,3 @@ Answer: B
 
 ## Contributing
 **Feel free to add new topics or improve question handling.**
-
-# License
-## MIT License
