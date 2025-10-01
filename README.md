@@ -69,6 +69,9 @@ C) casefold()
 D) toLower()
 Answer: B
 ```
+<img width="1446" height="366" alt="image" src="https://github.com/user-attachments/assets/42ce0c51-d55b-4bc1-a46e-9f315a4fba63" />
+<img width="1444" height="355" alt="image" src="https://github.com/user-attachments/assets/a9784dc4-b4fb-47f2-91ac-6ff41056e0fb" />
+
 
 ## Contributing
 **Feel free to add new topics or improve question handling.**
